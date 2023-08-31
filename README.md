@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-programa ensinado pela rockeatseat e refeito por Asn <br/>
+CREDITOS TOTAIS A ROCKEATSEAT <br/>
 </p>
 
 <p align="center">
