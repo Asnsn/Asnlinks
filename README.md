@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-CREDITOS TOTAIS A ROCKEATSEAT <br/>
+site de links por Asn <br/>
 </p>
 
 <p align="center">
